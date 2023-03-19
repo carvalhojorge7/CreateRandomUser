@@ -15,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::post('generate', [ApiController::class, 'generate']);
+Route::get('generate', [ApiController::class, 'generate']);
 
