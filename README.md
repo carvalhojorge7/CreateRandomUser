@@ -2,11 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Projeto API Laravel</title>
   </head>
   <body>
     <header>
-      <h1>Projeto API Laravel</h1>
+      <h1>Projeto API Laravel - Fake Users para testar formulários</h1>
     </header>
     <div>
       <p>Este projeto foi criado para o meu portfolio para mostrar um pouco das minhas habilidades com API usando Laravel 8.</p>
