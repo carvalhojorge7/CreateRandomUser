@@ -15,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('generate', [ApiController::class, 'generate']);
-Route::post('site_generate', [ApiController::class, 'generate']);
+Route::get('json_generate', [ApiController::class, 'generate']);
+Route::post('generate', [ApiController::class, 'generate']);
 
