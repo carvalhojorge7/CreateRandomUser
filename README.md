@@ -13,7 +13,7 @@
       <h2>Funcionalidades</h2>
       <ul>
         <li>Obter dados de usuários fake através da URL <a href="https://fake-users.jcarvalho.tech">https://fake-users.jcarvalho.tech</a>.</li>
-        <li>Obter um JSON com os dados dos usuários através da URL <a href="https://api.jcarvalho.tech/api/generate">https://api.jcarvalho.tech/api/generate</a>.</li>
+        <li>Obter um JSON com os dados dos usuários através da URL <a href="http://random-user-api.dnsabr.com/api/json_generate">http://random-user-api.dnsabr.com/api/json_generate</a>.</li>
       </ul>
     </div>
   </body>
