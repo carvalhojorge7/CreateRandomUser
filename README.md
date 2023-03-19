@@ -2,53 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>README - Projeto API Laravel</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-
-      header {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-      }
-
-      h1 {
-        font-size: 36px;
-        margin-bottom: 20px;
-      }
-
-      p {
-        font-size: 18px;
-        line-height: 1.5;
-        margin-bottom: 10px;
-      }
-
-      ul {
-        font-size: 18px;
-        line-height: 1.5;
-        margin-bottom: 20px;
-        padding-left: 30px;
-      }
-
-      li {
-        margin-bottom: 10px;
-      }
-
-      a {
-        color: #333;
-        font-weight: bold;
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
+    <title>Projeto API Laravel</title>
   </head>
   <body>
     <header>
@@ -63,7 +17,5 @@
         <li>Obter um JSON com os dados dos usuários através da URL <a href="https://api.jcarvalho.tech">https://api.jcarvalho.tech</a>.</li>
       </ul>
     </div>
-</body>
+  </body>
 </html>
-
-
