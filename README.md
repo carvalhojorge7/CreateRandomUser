@@ -12,8 +12,10 @@
       <p>Usei a API externa do <a href="https://randomuser.me">https://randomuser.me</a> e fiz alguns tratamentos para melhorar alguns dados que eram fornecidos com inconsistências, como o DDD que sempre vinha trocado na resposta do <a href="https://randomuser.me">https://randomuser.me</a>. Eu adicionei um switch case para corrigir os DDD's e também corrigi o formato dos telefones.</p>
       <h2>Funcionalidades</h2>
       <ul>
-        <li>Obter dados de usuários fake através da URL <a href="https://fake-users.jcarvalho.tech">https://fake-users.jcarvalho.tech</a>.</li>
-        <li>Obter um JSON com os dados dos usuários através da URL <a href="http://random-user-api.dnsabr.com/api/json_generate">http://random-user-api.dnsabr.com/api/json_generate</a>.</li>
+        <li>Obter dados de usuários fake através da URL <br>
+        <a href="http://create.random-user-api.dnsabr.com/">http://create.random-user-api.dnsabr.com/</a>.</li>
+        <li>Obter um JSON com os dados dos usuários através da URL<br>
+        <a href="http://random-user-api.dnsabr.com/api/json_generate">http://random-user-api.dnsabr.com/api/json_generate</a>.</li>
       </ul>
     </div>
   </body>
