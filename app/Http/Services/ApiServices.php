@@ -32,6 +32,7 @@ class ApiServices
 
     public function ddd($estado)
     {
+        //lista de estados
         switch ($estado) {
             case "Distrito Federal":
                 $ddd = "61";
